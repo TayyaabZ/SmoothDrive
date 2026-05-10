@@ -148,4 +148,4 @@ All settings are accessible in-app under the Settings screen:
 - **Anood Tayyeba Imtiaz** — 01-135232-010
 - **Tayyab Zahoor** — 01-135232-070
 
-BSCS Group 18 — Mobile Application Development
+BSIT 6th Sem — Mobile Application Development
