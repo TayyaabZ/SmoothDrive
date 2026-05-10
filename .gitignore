@@ -1,0 +1,63 @@
+# ==========================================
+# SmoothDrive Custom & Database Files
+# ==========================================
+*.db
+*.sqlite3
+server_hazards.db
+smoothdrive.db
+
+# ==========================================
+# Python Backend
+# ==========================================
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+env/
+.env
+
+# ==========================================
+# Flutter/Dart/Pub
+# ==========================================
+.dart_tool/
+.packages
+.pub-cache/
+.pub/
+build/
+.flutter-plugins
+.flutter-plugins-dependencies
+
+# ==========================================
+# Android & iOS Build Files
+# ==========================================
+/android/app/src/profile/
+/android/app/src/release/
+/android/app/build/
+/android/.gradle/
+/android/local.properties
+*.jks
+*.keystore
+/ios/.generated/
+/ios/Flutter/App.framework
+/ios/Flutter/Flutter.framework
+/ios/Flutter/Flutter.podspec
+/ios/Flutter/Generated.xcconfig
+/ios/Flutter/app.flx
+/ios/Flutter/app.zip
+/ios/Flutter/flutter_assets/
+/ios/Flutter/flutter_export_environment.sh
+/ios/Pods/
+
+# ==========================================
+# IDEs and OS Files
+# ==========================================
+.idea/
+.vscode/
+*.iml
+*.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
