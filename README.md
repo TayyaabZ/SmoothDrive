@@ -20,7 +20,12 @@ A crowdsourced road hazard detection and navigation app built with Flutter. Smoo
 
 ## Screenshots
 
-> Add your screenshots here
+<p float="left">
+  <img src="screenshots/Main_Dashboard_screen.jpeg" width="200"/>
+  <img src="screenshots/active_drive_screen.jpeg" width="200"/>
+  <img src="screenshots/Route_Preview_Search.jpeg" width="200"/>
+  <img src="screenshots/session_summary.jpeg" width="200"/>
+</p>
 
 ---
 
